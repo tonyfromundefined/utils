@@ -8,6 +8,11 @@
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
     },
+    "./add": {
+      "types": "./dist/add.d.ts",
+      "import": "./dist/add.js",
+      "require": "./dist/add.cjs"
+    },
     "./delay": {
       "types": "./dist/delay.d.ts",
       "import": "./dist/delay.js",
