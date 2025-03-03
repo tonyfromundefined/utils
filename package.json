@@ -15,7 +15,8 @@
     }
   },
   "scripts": {
-    "build": "bunchee"
+    "build": "bunchee",
+    "release": "changeset publish"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
