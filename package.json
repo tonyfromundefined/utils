@@ -17,6 +17,11 @@
       "types": "./dist/delay.d.ts",
       "import": "./dist/delay.js",
       "require": "./dist/delay.cjs"
+    },
+    "./sayMyName": {
+      "types": "./dist/sayMyName.d.ts",
+      "import": "./dist/sayMyName.js",
+      "require": "./dist/sayMyName.cjs"
     }
   },
   "scripts": {
