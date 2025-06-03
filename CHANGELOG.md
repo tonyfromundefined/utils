@@ -1,5 +1,11 @@
 # @tonyfromundefined/utils
 
+## 0.3.0
+
+### Minor Changes
+
+- eda6a24: feat: camelizeSchema
+
 ## 0.2.0
 
 ### Minor Changes
