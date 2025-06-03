@@ -18,10 +18,10 @@
       "import": "./dist/delay.js",
       "require": "./dist/delay.cjs"
     },
-    "./sayMyName": {
-      "types": "./dist/sayMyName.d.ts",
-      "import": "./dist/sayMyName.js",
-      "require": "./dist/sayMyName.cjs"
+    "./camelizeSchema": {
+      "types": "./dist/camelizeSchema.d.ts",
+      "import": "./dist/camelizeSchema.js",
+      "require": "./dist/camelizeSchema.cjs"
     }
   },
   "scripts": {
